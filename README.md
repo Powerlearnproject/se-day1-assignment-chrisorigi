@@ -70,11 +70,11 @@ Software engineers encounter various challenges throughout the development proce
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 
-Strategies for Overcoming Challenges: Strategies for overcoming challenges include
-- effective communication,
-- agile methodologies,
-- prioritization of tasks, and
-- regular reassessment of project goals and timelines.
+Strategies for overcoming challenges include:
+- Effective communication
+- Agile methodologies
+- Prioritization of tasks
+- Regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
