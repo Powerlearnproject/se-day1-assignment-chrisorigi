@@ -12,12 +12,12 @@ Identify and describe at least three key milestones in the evolution of software
 -
 Milestones in the evolution of software engineering include:
 
-#the development of programming languages (e.g., Fortran, C), 
+- development of programming languages (e.g., Fortran, C), 
 
-#the establishment of software engineering as a discipline in the 1960s, 
+- establishment of software engineering as a discipline in the 1960s, 
 
-#the advent of structured programming in the 1970s, 
-#and the rise of agile methodologies in the 2000s.
+- advent of structured programming in the 1970s,
+- and the rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 -
@@ -36,6 +36,10 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
   - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+-
+Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
+
+Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
