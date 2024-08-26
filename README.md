@@ -92,6 +92,7 @@ Quality control measures such as code reviews, automated testing, and continuous
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+-
+Prompt engineering is the process of carefully designing and crafting inputs (or "prompts") to guide an AI model, particularly large language models like GPT, to produce desired outputs. The goal of prompt engineering is to frame questions, instructions, or tasks in a way that maximizes the effectiveness and accuracy of the AI's responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
