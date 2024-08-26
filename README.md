@@ -8,12 +8,6 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering involves the design, development, testing, and maintenance of software.
 -
 Importance of software engineering includes;
---------------------------------------------
-Scalability: Ensures that software can grow and handle increased demand.
-Reliability: Minimizes bugs and errors, leading to more stable software.
-Maintainability: Facilitates easier updates and modifications.
-Efficiency: Optimizes the performance of software, making it faster and less resource-intensive.
-User Satisfaction: Produces software that meets or exceeds user expectations.
 -
 Software engineering is essential for creating complex, large-scale software systems that are critical to various industries, including finance, healthcare, education, and entertainment.
 -
