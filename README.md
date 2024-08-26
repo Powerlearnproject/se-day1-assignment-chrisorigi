@@ -46,6 +46,7 @@ Sequential approach with distinct phases (e.g., requirements, design, implementa
 Iterative and incremental approach focused on flexibility, collaboration, and responding to change. Agile is well-suited for projects where requirements are expected to change or evolve, such as developing a new product in a fast-moving industry. Agile is beneficial when customer feedback is critical to the development process, such as in startups or software development for end-users. Agile is also suitable for large and complex projects where different parts of the system may evolve separately.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+-
 Software engineering involves a diverse range of roles, including:
   - Software Developer: Responsible for writing code and implementing software solutions.
   - Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
