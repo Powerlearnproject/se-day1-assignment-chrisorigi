@@ -52,9 +52,11 @@ Software engineering involves a diverse range of roles, including:
   - Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
   - Project Manager: Oversees the planning, execution, and delivery of software projects.
 
+Software Developers and QA Engineers work closely together to ensure that the software is of high quality and meets the specified requirements. Developers write the code, while QA Engineers test it, providing feedback and highlighting areas that need improvement.
+The Project Manager coordinates all activities, ensuring that both development and testing are aligned with the project goals. They facilitate communication between developers, QA engineers, and stakeholders to ensure the project progresses smoothly.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+-
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
