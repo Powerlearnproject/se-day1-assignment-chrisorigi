@@ -37,9 +37,11 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 -
-Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. An ideal scenario for this include simple or Smaller Projects where the projects have a clear, linear progression and little risk of changes. Waterfall is also suitable for projects where the requirements are well-understood and unlikely to change. For example, developing software for regulatory compliance where the rules are clearly defined.
+# Waterfall: 
+Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. An ideal scenario for this include simple or Smaller Projects where the projects have a clear, linear progression and little risk of changes. Waterfall is also suitable for projects where the requirements are well-understood and unlikely to change. For example, developing software for regulatory compliance where the rules are clearly defined.
 
-Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change. Agile is well-suited for projects where requirements are expected to change or evolve, such as developing a new product in a fast-moving industry. Agile is beneficial when customer feedback is critical to the development process, such as in startups or software development for end-users. Agile is also suitable for large and complex projects where different parts of the system may evolve separately.
+# Agile: 
+Iterative and incremental approach focused on flexibility, collaboration, and responding to change. Agile is well-suited for projects where requirements are expected to change or evolve, such as developing a new product in a fast-moving industry. Agile is beneficial when customer feedback is critical to the development process, such as in startups or software development for end-users. Agile is also suitable for large and complex projects where different parts of the system may evolve separately.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
