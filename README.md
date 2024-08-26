@@ -65,6 +65,16 @@ Importance of Tools: Software engineering tools enhance productivity, collaborat
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -
+Software engineers encounter various challenges throughout the development process, including:
+  - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+  - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+  - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+
+Strategies for Overcoming Challenges: Strategies for overcoming challenges include
+- effective communication,
+- agile methodologies,
+- prioritization of tasks, and
+- regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
