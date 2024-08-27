@@ -10,7 +10,7 @@ Software engineering is essential for creating complex, large-scale software sys
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 -
-Milestones in the evolution of software engineering include:
+### Milestones in the evolution of software engineering include:
 
 - development of programming languages (e.g., Fortran, C), 
 
@@ -37,17 +37,17 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 -
-#Waterfall: 
+### Waterfall: 
 
 Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. An ideal scenario for this include simple or Smaller Projects where the projects have a clear, linear progression and little risk of changes. Waterfall is also suitable for projects where the requirements are well-understood and unlikely to change. For example, developing software for regulatory compliance where the rules are clearly defined.
 
-#Agile:
+### Agile:
 
 Iterative and incremental approach focused on flexibility, collaboration, and responding to change. Agile is well-suited for projects where requirements are expected to change or evolve, such as developing a new product in a fast-moving industry. Agile is beneficial when customer feedback is critical to the development process, such as in startups or software development for end-users. Agile is also suitable for large and complex projects where different parts of the system may evolve separately.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 -
-Software engineering involves a diverse range of roles, including:
+### Software engineering involves a diverse range of roles, including:
   - Software Developer: Responsible for writing code and implementing software solutions.
   - Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
   - Project Manager: Oversees the planning, execution, and delivery of software projects.
@@ -65,12 +65,12 @@ Importance of Tools: Software engineering tools enhance productivity, collaborat
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -
-Software engineers encounter various challenges throughout the development process, including:
+### Software engineers encounter various challenges throughout the development process, including:
   - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 
-Strategies for overcoming challenges include:
+### Strategies for overcoming challenges include:
 - Effective communication
 - Agile methodologies
 - Prioritization of tasks
@@ -84,7 +84,7 @@ Testing is a critical aspect of QA and involves various types of testing, includ
   - System Testing: Testing the entire software system as a whole.
   - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 
-Importance of Quality Control:
+### Importance of Quality Control:
 Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 
